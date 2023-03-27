@@ -1,0 +1,117 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Ditto",
+      "nickName": "sssd",
+      "type": "normal",
+      "ability": "Transform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "Ditto": "Dittod"
+    },
+    {
+      "id": 2,
+      "name": "Bulbasaur",
+      "nickName": "Little Grr",
+      "type": "grass",
+      "ability": "Overgrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "Little Green": "Little Gree",
+      "Bulbasaur": "Bulbasaurd"
+    },
+    {
+      "id": 3,
+      "name": "Greninja",
+      "nickName": "Licky",
+      "type": "water",
+      "ability": "Protean",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    },
+    {
+      "name": "roselia",
+      "nickName": "bud",
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+      "id": 4
+    },
+    {
+      "name": "ivysaur",
+      "nickName": "oregano",
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "id": 5
+    },
+    {
+      "name": "oddish",
+      "nickName": "",
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "id": 6
+    },
+    {
+      "name": "kirlia",
+      "nickName": "boop",
+      "type": [
+        "psychic",
+        "fairy"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+      "id": 7
+    },
+    {
+      "name": "abra",
+      "nickName": "sdsd",
+      "type": [
+        "psychic"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "id": 8
+    },
+    {
+      "name": "alakazam",
+      "nickName": "big spoon",
+      "type": [
+        "psychic"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "id": 9
+    },
+    {
+      "name": "hitmonchan",
+      "nickName": "Chan the man",
+      "type": [
+        "fighting"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "id": 10
+    },
+    {
+      "name": "charizard",
+      "nickName": "sss",
+      "type": [
+        "fire",
+        "flying"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "id": 11
+    },
+    {
+      "name": "kadabra",
+      "nickName": "tossie",
+      "type": [
+        "psychic"
+      ],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "id": 13
+    }
+  ]
+}
